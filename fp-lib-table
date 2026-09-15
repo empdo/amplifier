@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EEE-FPV391UAP")(type "KiCad")(uri "${KIPRJMOD}/libraries/EEE-FPV391UAP")(options "")(descr ""))
+  (lib (name "ESP32-WROVER-E")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESP32-WROVER-E")(options "")(descr ""))
+  (lib (name "TAS5805MPWP")(type "KiCad")(uri "${KIPRJMOD}/libraries/TAS5805MPWP")(options "")(descr ""))
+  (lib (name "R75GI368050H0J")(type "KiCad")(uri "${KIPRJMOD}/libraries/R75GI368050H0J")(options "")(descr ""))
+)

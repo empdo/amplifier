@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TAS5805MPWP
+D Audio Amplifiers TAS5805M 23-W, Digital Input, Stereo, Closed-Loop Class-D Audio Amplifier with Extended Processing 28-HTSSOP -25 to 85
+K
+F http://www.ti.com/lit/ds/symlink/tas5805m.pdf
+$ENDCMP
+#
+#End Doc Library

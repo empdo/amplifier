@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROVER-E
+D Module: IoT; Bluetooth Low Energy,WiFi; PCB; SMD; 18x31.4x3.3mm
+K
+F 
+$ENDCMP
+#
+#End Doc Library
